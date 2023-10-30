@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/laravel": "^10.2",
+        "mongodb/laravel-mongodb": "4.0.0"
+    }
+}
